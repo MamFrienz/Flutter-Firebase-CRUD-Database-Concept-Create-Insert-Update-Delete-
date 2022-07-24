@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "826772536906",
+    "project_id": "database-concept",
+    "storage_bucket": "database-concept.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826772536906:android:0a6f58206c151ba86ab0b3",
+        "android_client_info": {
+          "package_name": "com.example.database_concept"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826772536906-b4ds0gap903a1aa9bvgmuo110bm85pl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtZae11Kt_r5d1RfpT3WPQHnTFIC-zgus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826772536906-b4ds0gap903a1aa9bvgmuo110bm85pl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
